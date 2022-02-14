@@ -5,7 +5,7 @@
 
 - I’m currently Computer Science Master student at Cairo University.
 
-- I’m looking to collaborate on Machine/Deep learning, Data Analysis, and Data Science projects.
+- I’m looking to collaborate on Machine/Deep learning, Data Analysis, Data Science projects and Bioinformatics.
 
 - 📫 How to reach me **emadtolba2002@yahoo.com**
 
