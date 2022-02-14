@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emad Tolba</h1>
 <h3 align="center">Freelancer Data Analyst, Data Scientist, and Machine Learning engineer</h3>
 
-- I’m interested in Machine/Deep learning, Data Analysis, and Data Science. 
+- I’m interested in Machine/Deep learning, Data Analysis,Data Science and Bioinformatics. 
 
 - I’m currently Computer Science Master student at Cairo University.
 
